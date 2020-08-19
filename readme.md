@@ -30,13 +30,6 @@
 <br/>
 
 <img align="left" alt="Senna Development's Github Stats" src="https://github-readme-stats.senna.vercel.app/api?username=senna&show_icons=true&hide_border=true&count_private=true"/>
-
-<br/>
-
----
-
-<br/>
-
 <img align="left" alt="Senna Development's Github Most Used Language Stats" src="https://github-readme-stats.senna.vercel.app/api/top-langs/?username=sennadevelopment"/>
 
 [website]: https://sennadevelopment.github.io/
