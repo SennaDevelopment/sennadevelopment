@@ -1,6 +1,6 @@
-### Hey there, My i'm Senna - aka [Senna Development][website] 👋
+### Hey there, My name is Senna - aka [Senna Development][website] 👋
 
-## I'm a Webpage, Application, Game Develpper and Modder!
+## I'm a Webpage, Application, Game Developer and Modder!
 - 💻 I'm currently working on a website for [Senna Development][website].
 - ⚡ Fun Fact: I love to adventure out and explore nature and amazing sights around the world.
 
@@ -29,8 +29,7 @@
 
 <br/>
 
-<img align="left" alt="Senna Development's Github Stats" src="https://github-readme-stats.senna.vercel.app/api?username=senna&show_icons=true&hide_border=true&count_private=true"/>
-<img align="left" alt="Senna Development's Github Most Used Language Stats" src="https://github-readme-stats.senna.vercel.app/api/top-langs/?username=sennadevelopment"/>
+<img align="left" alt="Senna Development's Github Stats" src="https://github-readme-stats.senna.vercel.app/api?username=senna&show_icons=true&hide_border=true&count_private=true"/><img align="left" alt="Senna Development's Github Most Used Language Stats" src="https://github-readme-stats.senna.vercel.app/api/top-langs/?username=sennadevelopment&hide_border=true"/>
 
 [website]: https://sennadevelopment.github.io/
 [twitter]: https://twitter.com/sennadevelop/
