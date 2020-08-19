@@ -1,6 +1,6 @@
 ### Hey there, My name is Senna - aka [Senna Development][website] 👋
 
-## I'm a Webpage, Application, Game Developer and Modder!
+## I'm a Webpage-, Application-, Game Developer and Modder!
 - 💻 I'm currently working on a website for [Senna Development][website].
 - ⚡ Fun Fact: I love to adventure out and explore nature and amazing sights around the world.
 
@@ -27,9 +27,20 @@
 
 ---
 
+<img align="left" alt="Senna Development's Github Stats" src="https://github-readme-stats.senna.vercel.app/api?username=senna&show_icons=true&hide_border=true&count_private=true"/><img align="left" alt="Senna Development's Github Most Used Language Stats" src="https://github-readme-stats.senna.vercel.app/api/top-langs/?username=sennadevelopment&hide_border=true"/>
+
 <br/>
 
-<img align="left" alt="Senna Development's Github Stats" src="https://github-readme-stats.senna.vercel.app/api?username=senna&show_icons=true&hide_border=true&count_private=true"/><img align="left" alt="Senna Development's Github Most Used Language Stats" src="https://github-readme-stats.senna.vercel.app/api/top-langs/?username=sennadevelopment&hide_border=true"/>
+---
+
+### Badges
+![ACVC Badge](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-383030?style=for-the-badge&logo=github)
+
+---
+
+### Project Status
+![Website](https://img.shields.io/website?down_color=Red&down_message=Down&label=Senna%20Development%20Website&logo=html5&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsennadevelopment.github.io%2F)
+![Uptime Robot status](https://img.shields.io/uptimerobot/status/m785593133-4b4bb32c389b97490899281a?label=Hawk%20Discord%20Bot&logo=discord&style=for-the-badge)
 
 [website]: https://sennadevelopment.github.io/
 [twitter]: https://twitter.com/sennadevelop/
