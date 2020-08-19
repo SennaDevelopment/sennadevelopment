@@ -29,16 +29,10 @@
 
 <img align="left" alt="Senna Development's Github Stats" src="https://github-readme-stats.senna.vercel.app/api?username=senna&show_icons=true&hide_border=true&count_private=true"/><img align="left" alt="Senna Development's Github Most Used Language Stats" src="https://github-readme-stats.senna.vercel.app/api/top-langs/?username=sennadevelopment&hide_border=true"/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 
 ---
-
-<br/>
-
 ### Badges
 ![ACVC Badge](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-383030?style=for-the-badge&logo=github)
 
