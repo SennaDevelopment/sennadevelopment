@@ -36,5 +36,5 @@
 
 
 [website]: https://sennadevelopment.github.io/
-[twitter]: https://twitter.com/sennadevelop/
+[twitter]: https://twitter.com/Senna_Dev/
 [discord]: https://discord.com/invite/sennadevelopment
