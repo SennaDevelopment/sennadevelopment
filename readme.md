@@ -5,7 +5,6 @@
 
 ## I'm a Webpage-, Application-, Game Developer and Modder.
 - 💻 I'm currently working on a website for [Senna Development][website].
-- ⚡ Fun Fact: I love to adventure out and explore nature and amazing sights around the world.
 
 ### Connect with me:
 [<img align="left" alt="SennaDevelopment.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
