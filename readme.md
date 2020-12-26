@@ -1,6 +1,7 @@
 ### Hey there, My name is Senna - aka [Senna Development][website] 👋
 
 ![Website](https://img.shields.io/website?down_color=Red&down_message=Down&label=Senna%20Development%20Website&logo=html5&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsennadevelopment.github.io%2F)
+![JatN](https://img.shields.io/website?down_message=offline&label=JatN%20Website&logo=html5&style=for-the-badge&up_message=online&url=https%3A%2F%2Fgithub.com%2Fsennadevelopment)
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m785593133-4b4bb32c389b97490899281a?label=Hawk%20Discord%20Bot&logo=discord&style=for-the-badge)
 
 ## I'm a Webpage-, Application-, Game Developer and Modder.
