@@ -8,9 +8,9 @@
 - 💻 I'm currently working on a website for [Senna Development][website].
 
 ### Connect with me:
-[<img align="left" alt="SennaDevelopment.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="SennaDevelopment | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="SennaDevelopment | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord]
+[<img align="left" alt="SennaDevelopment.github.io" width="22px" src="./globe.png"/>][website]
+[<img align="left" alt="SennaDevelopment | Twitter" width="22px" src="./twitter.png"/>][twitter]
+[<img align="left" alt="SennaDevelopment | Discord" width="22px" src="./discord.png"/>][discord]
 
 <br/>
 
