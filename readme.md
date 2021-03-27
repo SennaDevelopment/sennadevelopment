@@ -43,9 +43,17 @@
 
 ## 📚 Statistics
 
-<img align="left" alt="Senna Development's Github Stats" src="https://github-readme-stats.senna.vercel.app/api?username=senna&show_icons=true&hide_border=true&count_private=true"/>
-<img align="center" alt="Senna Development's Github Most Used Language Stats" src="https://github-readme-stats.senna.vercel.app/api/top-langs/?username=sennadevelopment&hide_border=true"/>
-
+<div height="210px">
+  <table><tr>
+    <td width="50%">
+        <img alt="Senna Development's Github Stats" src="https://github-readme-stats.senna.vercel.app/api?username=SennaDevelopment&layout=compact&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&count_private=true" />
+    </td>
+    <td width="42%" style="vertical-align: top;">
+        <img alt="Senna Development's Github Most Used Language Stats" src="https://github-readme-stats.senna.vercel.app/api/top-langs/?username=SennaDevelopment&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true" />
+    </td>
+    </tr>
+    </table>
+</div>
 
 [website]: https://sennadevelopment.github.io/
 [twitter]: https://twitter.com/Senna_Dev/
