@@ -39,3 +39,5 @@
 [website]: https://sennadevelopment.github.io/
 [twitter]: https://twitter.com/Senna_Dev/
 [discord]: https://discord.com/invite/sennadevelopment
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github-com-SennaDevelopment
