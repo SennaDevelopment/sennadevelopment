@@ -31,7 +31,7 @@
 <img align="left" alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png"/>
 <img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="C++" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnl.wikipedia.org%2Fwiki%2FC%252B%252B&psig=AOvVaw0V3ELHaWRyuei0JW5jb3Ph&ust=1616920978819000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi__OeL0O8CFQAAAAAdAAAAABAU"/>
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png/>
 <img align="left" alt="C" width="26px" src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png"/>
 
 <br/>
