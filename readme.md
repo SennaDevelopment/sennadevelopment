@@ -1,5 +1,5 @@
 ### Hey there, My name is Senna - aka [Senna Development][website] 👋
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L1CBIJQ)
 ![Website](https://img.shields.io/website?down_color=Red&down_message=Down&label=Senna%20Development%20Website&logo=html5&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsennadevelopment.github.io%2F)
 ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m785593133-4b4bb32c389b97490899281a?label=Hawk%20Discord%20Bot&logo=discord&style=for-the-badge)
 
